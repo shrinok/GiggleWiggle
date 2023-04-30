@@ -1,2 +1,2 @@
-# GiggleWiggle
-Get your daily dose of humor with GiggleWiggle - the easy way to lighten up your mood!!
+# Jokes-chrome-extension
+A google chrome extension for showing up random jokes in pop ups!
